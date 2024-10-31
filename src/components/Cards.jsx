@@ -42,7 +42,7 @@ const Cards = () => {
     { title: 'Brook', description: 'Death - 166$', image: brookImage, longDescription: 'Nulla facilisi. Ut fringilla tristique neque, eget scelerisque eros mollis ut.' },
     { title: 'Lysop', description: 'Player - 50$', image: lysop, longDescription: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.' },
     { title: 'Chopper', description: 'Citizen - 70$', image: chopper, longDescription: 'At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium.' },
-    { title: 'Nami', description: 'Angel 140$', image: nami, longDescription: 'Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo.' },
+    { title: 'Nami', description: 'Angel - 140$', image: nami, longDescription: 'Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo.' },
     { title: 'Sanji', description: 'Mafia - 125$', image: sanji, longDescription: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.' },
     { title: 'Ruffy', description: 'Pharaoh - 135$', image: ruffy, longDescription: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit.' },
   ];
