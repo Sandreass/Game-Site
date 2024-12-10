@@ -2,6 +2,9 @@
 
 Welcome to the **React Game Project**, a modern, interactive web application designed to deliver an engaging and fun gaming experience. Below you will find all the details about the project, including its features, technologies, and a sneak peek with screenshots.
 
+![App Screenshot](./screenshots/screenshot1.png)
+![App Screenshot2](./screenshots/screenshot2.png)
+
 ---
 
 ## 🎮 Features
@@ -15,7 +18,7 @@ Welcome to the **React Game Project**, a modern, interactive web application des
 
 ---
 
-## 🛠️ Technologies Used
+## 📦 Technologies Used
 
 - **Frontend Framework:** React.js
 - **Routing:** React Router
@@ -28,7 +31,6 @@ Welcome to the **React Game Project**, a modern, interactive web application des
 ## 📂 Project Structure
 
 The project is structured in a modular way for easy maintenance:
-
 ```plaintext
 src/
 ├── components/
@@ -48,4 +50,12 @@ src/
 ├── App.jsx
 ├── index.css
 └── main.js
+```
+---
+
+## 🛠️ Installation and Setup
+
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:Sandreass/Game-Site.git
 ```
