@@ -58,4 +58,15 @@ src/
 1. Clone the repository:
    ```bash
    git clone git@github.com:Sandreass/Game-Site.git
-```
+    ```
+2. Install the dependencies:
+    ```bash
+    npm install
+    ```
+3. Start the development server:
+    ```bash
+    npm run dev
+    ```
+---
+   
+
